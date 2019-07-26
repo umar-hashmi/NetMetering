@@ -14,9 +14,7 @@ future price as well as of net load values beyond a certain time horizon, define
 
 In this formulation we consider: (a) net-metering compensation (with selling price at best equal to buying price) i.e. $\kappa_i \in [0,1]$, (b) inelastic load, (c) consumer renewable generation, (d) storage charging and discharging losses, (e) storage ramping constraint and (f) storage capacity constraint. 
 
-
-![alt text](https://github.com/umar-hashmi/linearprogrammingarbitrage/blob/master/lpcost.jpg)
-
+![alt text](https://github.com/umar-hashmi/NetMetering/blob/master/sys.jpg)
 
 Variables:
 (i) p_b(i) Buying price at time instant i
